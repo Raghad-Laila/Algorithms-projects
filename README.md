@@ -1,6 +1,6 @@
-# Algorithms Projects – First Year
+# Algorithms Projects – First and second academic Years in Software Engineering 
 
-This repository contains a collection of algorithm implementations developed during my first year of Software Engineering studies.  
+This repository contains a collection of algorithm implementations developed during my first and second years of Software Engineering studies.  
 Each folder represents a standalone project with its own code and documentation.
 
 ##  Included Projects
