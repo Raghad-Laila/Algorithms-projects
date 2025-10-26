@@ -3,14 +3,19 @@
 This repository contains a collection of algorithm implementations developed during my first year of Software Engineering studies.  
 Each folder represents a standalone project with its own code and documentation.
 
-## 📦 Included Projects
+##  Included Projects
 
-- 🔁 Bubble Sort (C++)
-- 📥 Insertion Sort (C++)
-- 🎯 Selection Sort (C++)
-- ⚡ Quick Sort (C++)
-- 🌳 Binary Search Tree (Java)
-- 🔗 Linked List (Java – Maven)
+-  Bubble Sort (C++)
+-  Insertion Sort (C++)
+-  Selection Sort (C++)
+-  Quick Sort (C++)
+-  Binary Search Tree (Java)
+-  Linked List (Java – Maven)
+-  Balance tree (Java)
+-  B plus tree (Java)
+-  Graph (Java)
+-  DFS (java)
+-  AVL tree (java)
 
 Each project includes:
 
@@ -18,11 +23,11 @@ Each project includes:
 - Sample input/output
 - A brief README explaining the purpose and logic
 
-## 🎯 Purpose
+##  Purpose
 
 To practice core algorithmic thinking and understand how different sorting and data structure techniques work in real code.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - C++ (Code::Blocks)
 - Java (NetBeans + Maven)
