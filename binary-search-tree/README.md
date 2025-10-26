@@ -47,4 +47,3 @@ root = BST.insert(root, 13);
 
 ## height = 3
 
-Let me know if you'd like to add screenshots, diagrams, or even a short video demo later. Ready to help with the next project whenever you are!
